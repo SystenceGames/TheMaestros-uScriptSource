@@ -1,0 +1,1 @@
+class TMStatusEffectPopspringKnockup extends TMStatusEffectStunned;

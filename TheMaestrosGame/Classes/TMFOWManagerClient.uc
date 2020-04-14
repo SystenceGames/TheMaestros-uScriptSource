@@ -1,0 +1,1 @@
+class TMFOWManagerClient extends TMFoWManagerCommon implements(TMFOWManager);
